@@ -1,0 +1,18 @@
+{
+    "name": "wittenejdek/ldap",
+    "description": "Multiple LDAP WITTE Automotive",
+    "type": "library",
+    "license": "WITTE",
+    "authors": [
+        {
+            "name": "Igor Pocta",
+            "email": "igor.pocta@witte-automotive.cz"
+        }
+    ],
+
+    "require": {},
+
+    "autoload": {
+        "psr-4": { "wittenejdek\\ldap\\": "src/" }
+    }
+}
